@@ -1,5 +1,6 @@
 .thumbnails{
     width: 100%;
+    border-radius: 15px;
 }
 
 .video_title{
