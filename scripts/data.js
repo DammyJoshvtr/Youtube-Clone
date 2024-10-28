@@ -1,3 +1,4 @@
+//Home Video Grid Data
 export const videoGrid = [{
   videoPreview: {
     thumbnailRow: {
@@ -10,7 +11,7 @@ export const videoGrid = [{
         profilePicture: 'authors_pic/channel-1.jpeg'
       },
       videoInfo: {
-        videoTitle: 'Talking Tech nad AI with the Google CEO Sunday Punchai!',
+        videoTitle: 'Talking Tech and AI with the Google CEO Sunday Punchai!',
         videoAuthor: 'Marquee Brownee',
         videoStats: '3.4M views &#183; 6 months ago'
       }
@@ -254,6 +255,50 @@ export const videoGrid = [{
         videoAuthor: 'Cristian Mihai',
         videoStats: '281K views &#183; 4 months ago'
       }
+    }
+  }
+}]
+
+//playback Video Data 
+
+export const playBackGrid = [{
+  videoView: {
+    thumbnails: 'thumbnails/thumbnail-1.webp'
+  },
+  videoInfoGrid: {
+    channelPicture: {
+      profilePicture: 'authors_pic/channel-1.jpeg'
+    },
+    videoInfo:{
+      videoTitle: 'Talking Tech and AI with the Google CEO Sunday Punchai!'
+      }
+    }
+  },
+
+{
+  videoView: {
+    thumbnails: 'thumbnails/thumbnail-2.webp'
+  },
+  videoIfoGrid: {
+    channelPicture: {
+      profilePicture: 'authors_pic/channel-2.jpeg'
+    },
+    videoInfo:{
+      videoTitle: 'Try not to laugh Challenge #9'
+    }
+  }
+},
+
+{
+  videoView:{
+    thumbanils: 'thumbnails/thumbnail-3.webp'
+  },
+  videoInfoGrid: {
+    channelPicture: {
+      profilePicture: 'authors_pic/channel-3.jpeg'
+    },
+    videoInfo: {
+      videoTitle: 'Crazy Tik Toks Token Moments Before DISASTER'
     }
   }
 }]
