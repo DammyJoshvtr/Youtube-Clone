@@ -1,4 +1,4 @@
-const videoGrid = [{
+export const videoGrid = [{
   videoPreview: {
     thumbnailRow: {
       thumbnailImage: 'thumbnails/thumbnail-1.webp',
