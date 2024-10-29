@@ -1,0 +1,48 @@
+.video{
+  width: 650px;
+  border-radius: 25px;
+}
+
+.video-load-text{
+  font-size: 21px;
+  max-width: 650px;
+}
+
+.video-load-stats{
+  display: grid;
+  grid-template-columns: 50px 100px 120px 1fr;
+  column-gap: 15px;
+  align-items: center;
+}
+
+.video-load-profile-image{
+  width: 47px;
+  border-radius: 50px;
+}
+
+.author-info{
+  display: inline-block;
+}
+
+.video-author-name{
+  font-size: 18px;
+}
+
+.author-subscriber-stats{
+  font-size: 13px;
+}
+
+.subscribe-button{
+  width: 100px;
+  border-radius: 50px;
+  height: 39px;
+  border: none;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.user-option{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 10px;
+}

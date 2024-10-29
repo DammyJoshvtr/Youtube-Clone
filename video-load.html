@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="styles/sidebar.css">
     <link rel="stylesheet" href="styles/general.css">
     <link rel="stylesheet" href="styles/video.css">
+    <link rel="stylesheet" href="styles/video-load.css">
   </head>
   <body>
 
@@ -99,16 +100,31 @@
     </div>
 
     <div class="video-view-container" id="video-view-container">
-      <div class="video-view">
-        <img src="thumbnails/thumbnail-1.webp">
+      <div class="video-playback">
+        <video controls poster="thumbnails/thumbnail-1.webp" class="video">
+          <source src="" type="mp4">
+          Just Testing...
+        </video>
       </div>
-      <div class="video_info_grid">
-        <div class="channel_picture">
-          <img src="authors_pic/channel-1.jpeg" class="profile_picture"> 
+      <div class="video-info-container">
+        <div class="video-load-info">
+          <p class="video-load-text">Talking Tech and AI with the Google CEO Sunday Punchai!</p>
         </div>
-        <div class="video-info">
-          <p class="video-title">Talking Tech and AI with the Google CEO Sunday Punchai!</p>
+        <div class="video-load-stats">
+          <img src="authors_pic/channel-1.jpeg" class="video-load-profile-image">
+          <div class="author-info">
+            <div class="video-author-name">Marquee Brownee</div>
+            <div class="author-subscriber-stats">19.6M subscribers</div>
+          </div>
+          <div>
+            <button class="subscribe-button">Subscribe</button>
+          </div>
+          <div class="user-option">
+            <div></div>
+          </div>
+
         </div>
+
       </div>
     </div>
     <script>
