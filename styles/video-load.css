@@ -1,18 +1,29 @@
+.video-view-container{
+  width: 900px;
+}
+
 .video{
-  width: 650px;
+  width: 830px;
   border-radius: 25px;
 }
 
 .video-load-text{
   font-size: 21px;
-  max-width: 650px;
+  max-width: 830px;
 }
 
 .video-load-stats{
   display: grid;
-  grid-template-columns: 50px 100px 120px 1fr;
+  grid-template-columns: 50px 100px 240px 1fr;
   column-gap: 15px;
   align-items: center;
+}
+
+.video-load-info{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  max-width: 830px;
+  font-weight: bold;
 }
 
 .video-load-profile-image{
@@ -43,6 +54,123 @@
 
 .user-option{
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 70px 52px 90px 1fr 1fr;
   column-gap: 10px;
 }
+
+.like-button{
+  width:77px;
+  height: 35px;
+  background-color: rgb(199, 199, 199);
+  border-top-left-radius: 35px;
+  border-bottom-left-radius: 35px;
+  position: relative;
+}
+
+.like-count{
+  position: absolute;
+  top: 7px;
+  left: 37px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.demarcation{
+  height: 18px;
+  width: 2px;
+  background-color: black;
+  position: absolute;
+  top: 6px;
+  left: 76px;
+}
+
+.unlike-button{
+  width:57px;
+  height: 35px;
+  background-color: rgb(199, 199, 199);
+  border-top-right-radius: 29px;
+  border-bottom-right-radius: 29px;
+  margin-left: -3px;
+  position: relative;
+}
+
+.like-image{
+  width: 21px;
+  position: absolute;
+  top: 6px;
+  left: 9px;
+  cursor: pointer;
+}
+
+.unlike-image{
+  transform: scaleX(-1);
+  width: 21px;
+  position: absolute;
+  top: 6px;
+  left: 14px;
+  cursor: pointer;
+  
+}
+
+.share-button{
+  width:90px;
+  height: 35px;
+  background-color: rgb(199, 199, 199);
+  border-radius: 15px;
+  position: relative;
+}
+
+.share-image{
+  width: 21px;
+  position: absolute;
+  top: 6px;
+  left: 9px;
+}
+
+.share-text{
+  position: absolute;
+  top: 9px;
+  left: 35px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.download-button{
+  width:120px;
+  height: 35px;
+  background-color: rgb(199, 199, 199);
+  border-radius: 15px;
+  position: relative;
+}
+
+.download-image{
+  width: 21px;
+  position: absolute;
+  top: 6px;
+  left: 9px;
+}
+
+.download-text{
+  position: absolute;
+  top: 9px;
+  left: 35px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+
+.option-button{
+  width:35px;
+  height: 35px;
+  background-color: rgb(199, 199, 199);
+  border-radius: 18px;
+  position: relative;
+}
+  
+
+.option-image{
+    width: 21px;
+    position: absolute;
+    top: 7px;
+    left: 7px;
+  }
