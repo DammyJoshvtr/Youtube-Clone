@@ -294,4 +294,424 @@ export const playBackGrid = [{
       }
     }
   }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: 'Try not to laugh Challenge #9'
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-2.jpeg',
+    authorIfo: {
+      videoAuthorName: 'Markiplier',
+      authorSubscriberStats: '19M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: 'Crazy Tik Toks Token Moments Before DISASTER'
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-3.jpeg',
+    authorIfo: {
+      videoAuthorName: 'SSSniperWolf',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: 'The Simplest MAth Problem No One Can Solve - Collatz Conjecture'
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-4.jpeg',
+    authorIfo: {
+      videoAuthorName: 'Veritasium',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: "Kadane's Algorithm to Maximum Sum Subarray Problem"
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-5.jpeg',
+    authorIfo: {
+      videoAuthorName: 'Cs Dojo',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: "Anything You Can Fit In The Circle I'll Pay For"
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-6.jpeg',
+    authorIfo: {
+      videoAuthorName: 'MrBeast',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: "How to put an HTML website online (on the Internet)"
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-7.jpeg',
+    authorIfo: {
+      videoAuthorName: 'SuperSimpleDev',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: "FC 24 - Real Madrid Vs Manchester City - Ft. Mbappe| UEFA UCL 24/25..."
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-8.jpeg',
+    authorIfo: {
+      videoAuthorName: 'FIFAGamerSS',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: "FC 24 - Barcelona Vs. Real Madrid Ft. Yamal, Mbappe, Williams, | La Liga..."
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-9.jpeg',
+    authorIfo: {
+      videoAuthorName: 'Mzpanda Gaming',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: "Buld and Deploy 3 Modern UI/UX Websites and Get Hired as Front..."
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-10.jpeg',
+    authorIfo: {
+      videoAuthorName: 'JavaScript Mastery',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: "How I MASTERED CODING with these 4 easy steps"
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-12.jpeg',
+    authorIfo: {
+      videoAuthorName: 'Levi Okoye',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: '"Heart Attack"' +"(Demi Lovato) Cover from " + "'School of Rock' 🎶 | Music..."
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-13.jpeg',
+    authorIfo: {
+      videoAuthorName: 'NickRewind',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
+},
+
+{
+  videoLoadInfo: {
+    videoLoadText: 'Build and Deploy a Portfolio Website Using Next JS, TailWind CSS & Fram...'
+  },
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-14.jpeg',
+    authorIfo: {
+      videoAuthorName: 'Cristian Mihai',
+      authorSubscriberStats: '12M subscribers'
+    },
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
+      }
+    }
+  }
 }]
