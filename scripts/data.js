@@ -261,7 +261,7 @@ export const videoGrid = [{
 
 //playback Video Data 
 
-const playBackGrid = [{
+export const playBackGrid = [{
   videoLoadInfo: {
     videoLoadText: 'Talking Tech and AI with Google CEO Sunday Punchai'
   },
