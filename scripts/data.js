@@ -261,44 +261,37 @@ export const videoGrid = [{
 
 //playback Video Data 
 
-export const playBackGrid = [{
-  videoView: {
-    thumbnails: 'thumbnails/thumbnail-1.webp'
+const playBackGrid = [{
+  videoLoadInfo: {
+    videoLoadText: 'Talking Tech and AI with Google CEO Sunday Punchai'
   },
-  videoInfoGrid: {
-    channelPicture: {
-      profilePicture: 'authors_pic/channel-1.jpeg'
+  videoLoadStats: {
+    videoLoadProfileImage: 'authors_pic/channel-1.jpeg',
+    authorIfo: {
+      videoAuthorName: 'Marquee Brownee',
+      authorSubscriberStats: '19.6M subscribers'
     },
-    videoInfo:{
-      videoTitle: 'Talking Tech and AI with the Google CEO Sunday Punchai!'
+    subscribeButton: 'Subscribe',
+    userOption:{
+      likeButton:{
+        likeImage: 'icons/like.svg',
+        likeCount: '8.3K',
+        demarcation: ''
+      },
+      unLikeButton:{
+        unlikeImage: 'icons/unlike.svg'
+      },
+      shareButton:{
+        shareImage: 'icons/share.png',
+        shareText: 'Share'
+      },
+      downloadButton: {
+        downloadImage: 'icons/download.png',
+        downloadText: 'Download'
+      },
+      OptionButton: {
+        optionImage: 'icons/option.png'
       }
-    }
-  },
-
-{
-  videoView: {
-    thumbnails: 'thumbnails/thumbnail-2.webp'
-  },
-  videoIfoGrid: {
-    channelPicture: {
-      profilePicture: 'authors_pic/channel-2.jpeg'
-    },
-    videoInfo:{
-      videoTitle: 'Try not to laugh Challenge #9'
-    }
-  }
-},
-
-{
-  videoView:{
-    thumbanils: 'thumbnails/thumbnail-3.webp'
-  },
-  videoInfoGrid: {
-    channelPicture: {
-      profilePicture: 'authors_pic/channel-3.jpeg'
-    },
-    videoInfo: {
-      videoTitle: 'Crazy Tik Toks Token Moments Before DISASTER'
     }
   }
 }]
