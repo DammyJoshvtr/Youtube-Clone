@@ -262,6 +262,9 @@ export const videoGrid = [{
 //playback Video Data 
 
 export const playBackGrid = [{
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-1.webp'
+  },
   videoLoadInfo: {
     videoLoadText: 'Talking Tech and AI with Google CEO Sunday Punchai'
   },
@@ -296,7 +299,10 @@ export const playBackGrid = [{
   }
 },
 
-{
+  {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-2.webp'
+  },
   videoLoadInfo: {
     videoLoadText: 'Try not to laugh Challenge #9'
   },
@@ -331,7 +337,10 @@ export const playBackGrid = [{
   }
 },
 
-{
+{ 
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-3.webp'
+  },
   videoLoadInfo: {
     videoLoadText: 'Crazy Tik Toks Token Moments Before DISASTER'
   },
@@ -367,6 +376,9 @@ export const playBackGrid = [{
 },
 
 {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-4.webp'
+  },
   videoLoadInfo: {
     videoLoadText: 'The Simplest MAth Problem No One Can Solve - Collatz Conjecture'
   },
@@ -402,6 +414,9 @@ export const playBackGrid = [{
 },
 
 {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-5.webp'
+  },
   videoLoadInfo: {
     videoLoadText: "Kadane's Algorithm to Maximum Sum Subarray Problem"
   },
@@ -437,6 +452,9 @@ export const playBackGrid = [{
 },
 
 {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-6.webp'
+  },
   videoLoadInfo: {
     videoLoadText: "Anything You Can Fit In The Circle I'll Pay For"
   },
@@ -472,6 +490,9 @@ export const playBackGrid = [{
 },
 
 {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-7.webp'
+  },
   videoLoadInfo: {
     videoLoadText: "How to put an HTML website online (on the Internet)"
   },
@@ -507,11 +528,14 @@ export const playBackGrid = [{
 },
 
 {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-8.webp'
+  },
   videoLoadInfo: {
     videoLoadText: "FC 24 - Real Madrid Vs Manchester City - Ft. Mbappe| UEFA UCL 24/25..."
   },
   videoLoadStats: {
-    videoLoadProfileImage: 'authors_pic/channel-8.jpeg',
+    videoLoadProfileImage: 'authors_pic/channel-8.jpg',
     authorIfo: {
       videoAuthorName: 'FIFAGamerSS',
       authorSubscriberStats: '12M subscribers'
@@ -542,11 +566,14 @@ export const playBackGrid = [{
 },
 
 {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-9.webp'
+  },
   videoLoadInfo: {
     videoLoadText: "FC 24 - Barcelona Vs. Real Madrid Ft. Yamal, Mbappe, Williams, | La Liga..."
   },
   videoLoadStats: {
-    videoLoadProfileImage: 'authors_pic/channel-9.jpeg',
+    videoLoadProfileImage: 'authors_pic/channel-9.jpg',
     authorIfo: {
       videoAuthorName: 'Mzpanda Gaming',
       authorSubscriberStats: '12M subscribers'
@@ -577,11 +604,14 @@ export const playBackGrid = [{
 },
 
 {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-10.webp'
+  },
   videoLoadInfo: {
     videoLoadText: "Buld and Deploy 3 Modern UI/UX Websites and Get Hired as Front..."
   },
   videoLoadStats: {
-    videoLoadProfileImage: 'authors_pic/channel-10.jpeg',
+    videoLoadProfileImage: 'authors_pic/channel-10.jpg',
     authorIfo: {
       videoAuthorName: 'JavaScript Mastery',
       authorSubscriberStats: '12M subscribers'
@@ -612,11 +642,14 @@ export const playBackGrid = [{
 },
 
 {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-11.webp'
+  },
   videoLoadInfo: {
     videoLoadText: "How I MASTERED CODING with these 4 easy steps"
   },
   videoLoadStats: {
-    videoLoadProfileImage: 'authors_pic/channel-12.jpeg',
+    videoLoadProfileImage: 'authors_pic/channel-12.jpg',
     authorIfo: {
       videoAuthorName: 'Levi Okoye',
       authorSubscriberStats: '12M subscribers'
@@ -647,11 +680,14 @@ export const playBackGrid = [{
 },
 
 {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-12.webp'
+  },
   videoLoadInfo: {
     videoLoadText: '"Heart Attack"' +"(Demi Lovato) Cover from " + "'School of Rock' 🎶 | Music..."
   },
   videoLoadStats: {
-    videoLoadProfileImage: 'authors_pic/channel-13.jpeg',
+    videoLoadProfileImage: 'authors_pic/channel-13.jpg',
     authorIfo: {
       videoAuthorName: 'NickRewind',
       authorSubscriberStats: '12M subscribers'
@@ -682,11 +718,14 @@ export const playBackGrid = [{
 },
 
 {
+  videoPlayBack: {
+    video: 'thumbnails/thumbnail-13.webp'
+  },
   videoLoadInfo: {
     videoLoadText: 'Build and Deploy a Portfolio Website Using Next JS, TailWind CSS & Fram...'
   },
   videoLoadStats: {
-    videoLoadProfileImage: 'authors_pic/channel-14.jpeg',
+    videoLoadProfileImage: 'authors_pic/channel-14.jpg',
     authorIfo: {
       videoAuthorName: 'Cristian Mihai',
       authorSubscriberStats: '12M subscribers'
